@@ -1,2 +1,2 @@
 [deploy]
-startCommand = "node src/db/migrate.js && node src/app.js"
+startCommand = "node src/app.js"
